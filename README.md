@@ -1,3 +1,6 @@
+![tetris](https://github.com/DevZSkillz/Tetris/assets/168499822/c7d9c330-5d9f-4b37-80b4-c01cd1a7271b)
+
+
 # Tetris
 
 ## Description
